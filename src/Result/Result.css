@@ -1,0 +1,19 @@
+.cardWrapper {
+  border-radius: 25px;
+  min-width: 300px;
+  background: #fff;
+  border: none;
+  min-height: 300px;
+  text-align: center;
+  display: inline-block;
+  float: left;
+  margin: 55px 25px;
+  box-shadow: 0px 5px 8px 0px #242424;
+  max-width: 300px;
+}
+.email {
+  margin: 0 auto;
+}
+.resultsContainer {
+  text-align: center;
+}
